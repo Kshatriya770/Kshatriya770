@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-  <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
+  <img src="https://github.com/Kshatriya770/Kshatriya770/blob/main/readme.gif">
 </p>
 <!--
 **Kshatriya770/Kshatriya770** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
