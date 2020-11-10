@@ -9,7 +9,7 @@
 - 🌱 I’m currently working on a Sudoko Project made with Python
 - 👯 I’m looking to Contribute to any Open Source Project with Java or Android Development
 - 🥅 2020 Goals: Start Competitive Programming and Solve at least 5 Question a day.
-- ⚡ Fun fact: I love to play with linux and i am learning hacking too
+- ⚡ Fun fact: I love to play with linux.
 
 
 ### Connect with me:
