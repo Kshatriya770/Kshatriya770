@@ -6,7 +6,7 @@
 ## I'm a Web Designer, Freelancer, Developer, and I love Tech!!
 
 - 🔭 I'm just learning Advance Java along with Data Structue and Algorithms in deep.
-- 🌱 I’m currently working on a Sudoko Project made with Python
+- 🌱 I’m learning React too
 - 👯 I’m looking to Contribute to any Open Source Project with Java or Android Development
 - 🥅 2020 Goals: Start Competitive Programming and Solve at least 5 Question a day.
 - ⚡ Fun fact: I love to play with linux.
