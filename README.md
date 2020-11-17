@@ -6,7 +6,7 @@
 ## I'm a Web Designer, Freelancer, Developer, and I love Tech!!
 
 - 🔭 I'm just learning Advance Java along with Data Structue and Algorithms in deep.
-- 🌱 I’m learning React too<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+- 🌱 I’m learning React too<img alt="React" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 - 👯 I’m looking to Contribute to any Open Source Project with Java or Android Development
 - 🥅 2020 Goals: Start Competitive Programming and Solve at least 5 Question a day.
 - ⚡ Fun fact: I love to play with linux.
