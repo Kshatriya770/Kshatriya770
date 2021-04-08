@@ -5,7 +5,7 @@
 
 ## I'm a Web Designer, Freelancer, Developer, and I love Tech!!
 
-- 🔭 I'm just learning Advance Java along with Data Structue and Algorithms in deep.
+- 🔭 I'm just learning Advance Java along with Data Structue and Algorithms.
 - 🌱 I’m learning React too<img alt="React" width="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 - 👯 I’m looking to Contribute to any Open Source Project with Java or Android Development
 - 🥅 2021 Goals: Start Competitive Programming and Solve at least 5 Question a day.
