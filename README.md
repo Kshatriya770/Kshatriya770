@@ -34,7 +34,7 @@
 <br />
 <br />
 
-<img align="left" alt="Saurabh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Kshatriya770&show_icons=true&hide_border=true" />
+<!-- <img align="left" alt="Saurabh's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Kshatriya770&show_icons=true&hide_border=true" /> -->
 
 [website]: https://Kshatriya770.github.io
 [twitter]: https://twitter.com/Kshatriya_77
