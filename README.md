@@ -7,8 +7,7 @@
 
 - 🔭 I'm just learning Advance Java along with Data Structue and Algorithms.
 - 👯 I’m looking to Contribute to any Open Source Project with Java or Android Development
-- 🥅 2022 Goals: Get an internship
-- ⚡ Fun fact: I love to play with linux and i love making Custom ROMs(that's preferably unpaid internship).
+- ⚡ Fun fact: I love to play with linux and i love making Custom ROMs
 
 
 ### Connect with me:
