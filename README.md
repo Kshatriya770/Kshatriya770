@@ -9,7 +9,6 @@
 - 🌱 Also working day-to-day with **Java, Kotlin, TypeScript, and Django** across Android and full-stack projects
 - 🛠️ Comfortable across the stack: schema design, API contracts, state management, deployments on Vercel / Netlify / Render
 - 👯 Open to contributing on **MERN, Android, Java, or web** open-source projects
-- 📍 Based in Noida, India
 - ⚡ Fun fact: I love tinkering with Linux and cooking Custom ROMs
 
 ### Connect with me:
