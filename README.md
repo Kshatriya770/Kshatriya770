@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=Kshatriya770.github.io&style=for-the-badge&url=https%3A%2F%2FKshatriya770.github.io)](https://kshatriya770.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Kshatriya_77?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FKshatriya_77r&screen_name=Kshatriya_77)
 
-## Java • Android App Dev • Full Stack Developer
+##  Android App Dev • Full Stack Developer
 
 - 💻 Full-stack developer working with the **MERN stack** (MongoDB, Express, React, Node.js) — building REST APIs, auth flows, and responsive UIs end-to-end
 - 🌱 Also working day-to-day with **Java, Kotlin, TypeScript, and Django** across Android and full-stack projects
