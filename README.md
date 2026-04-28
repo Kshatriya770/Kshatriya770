@@ -16,7 +16,7 @@
 
 [<img align="left" alt="Kshatriya770.github.io" width="22px" src="https://cdn.simpleicons.org/googlechrome/4285F4" />][website]
 [<img align="left" alt="Kshatriya_77 | Twitter" width="22px" src="https://cdn.simpleicons.org/x/1DA1F2" />][twitter]
-[<img align="left" alt="Kshatriya_77 | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />][linkedin]
+[<img align="left" alt="Kshatriya_77 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="left" alt="Kshatriya_77 | Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/E4405F" />][instagram]
 
 <br />
