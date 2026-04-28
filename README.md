@@ -49,5 +49,5 @@
 
 [website]: https://Kshatriya770.github.io
 [twitter]: https://twitter.com/Kshatriya_77
-[instagram]: https://instagram.com/Kshatriya_77
+[instagram]: https://instagram.com/Kshatriya770
 [linkedin]: https://linkedin.com/in/Kshatriya770
